@@ -1,0 +1,31 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'NoWhite' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  #Libs
+  pod 'DDPopup', :path => '../NoWhiteLibrary/DDPopup/DDPopup'
+  
+  #Base
+  pod 'NWBase',  :path => '../NoWhiteModule/NWBase'
+    
+  #Main Module
+  pod 'NWHome',    :path => '../NoWhiteModule/NWHome/NWHome'
+  pod 'NWMessage', :path => '../NoWhiteModule/NWMessage/NWMessage'
+  pod 'NWMe',      :path => '../NoWhiteModule/NWMe/NWMe'
+  
+  #Other Module
+  pod 'NWSetting', :path => '../NoWhiteModule/NWSetting/NWSetting'
+  pod 'NWScan',    :path => '../NoWhiteModule/NWScan/NWScan'
+  
+  
+  #Third Frameworks
+  pod "AFNetworking", "~> 2.0"
+  pod 'SDWebImage', '~> 5.0'
+  pod 'Masonry'
+
+  # Pods for NoWhite
+
+end

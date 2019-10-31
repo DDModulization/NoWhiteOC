@@ -1,0 +1,6 @@
+framework module Pods_NoWhite {
+  umbrella header "Pods-NoWhite-umbrella.h"
+
+  export *
+  module * { export * }
+}

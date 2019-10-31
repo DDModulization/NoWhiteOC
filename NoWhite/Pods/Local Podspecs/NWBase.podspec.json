@@ -1,0 +1,41 @@
+{
+  "name": "NWBase",
+  "version": "0.0.1",
+  "summary": "NWBase.",
+  "description": "NWBase",
+  "homepage": "https://github.com/deepindo/NWBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "deepindo": "732872042@qq.com"
+  },
+  "source": {
+    "git": "NWBase"
+  },
+  "source_files": [
+    "NWBase",
+    "NWBase/**/*.{h,m}"
+  ],
+  "exclude_files": "NWBase/Exclude",
+  "ios": {
+    "dependencies": {
+      "NWHome": [
+
+      ],
+      "NWMessage": [
+
+      ],
+      "NWMe": [
+
+      ]
+    }
+  },
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

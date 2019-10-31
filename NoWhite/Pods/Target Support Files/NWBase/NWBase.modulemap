@@ -1,0 +1,6 @@
+framework module NWBase {
+  umbrella header "NWBase-umbrella.h"
+
+  export *
+  module * { export * }
+}

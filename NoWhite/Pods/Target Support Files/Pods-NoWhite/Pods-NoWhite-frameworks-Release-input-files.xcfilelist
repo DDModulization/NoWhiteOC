@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-NoWhite/Pods-NoWhite-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/DDPopup/DDPopup.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/NWBase/NWBase.framework
+${BUILT_PRODUCTS_DIR}/NWHome/NWHome.framework
+${BUILT_PRODUCTS_DIR}/NWMe/NWMe.framework
+${BUILT_PRODUCTS_DIR}/NWMessage/NWMessage.framework
+${BUILT_PRODUCTS_DIR}/NWScan/NWScan.framework
+${BUILT_PRODUCTS_DIR}/NWSetting/NWSetting.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework

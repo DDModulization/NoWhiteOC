@@ -1,0 +1,22 @@
+{
+  "name": "DDPopup",
+  "version": "0.1.0",
+  "summary": "A short description of DDPopup.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/deepindo/DDPopup",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "deepindo": "732872042@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/deepindo/DDPopup.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DDPopup/Classes/**/*"
+}

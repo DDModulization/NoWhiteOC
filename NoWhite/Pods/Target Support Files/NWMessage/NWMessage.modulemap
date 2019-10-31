@@ -1,0 +1,6 @@
+framework module NWMessage {
+  umbrella header "NWMessage-umbrella.h"
+
+  export *
+  module * { export * }
+}

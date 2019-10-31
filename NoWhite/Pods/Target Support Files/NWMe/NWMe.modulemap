@@ -1,0 +1,6 @@
+framework module NWMe {
+  umbrella header "NWMe-umbrella.h"
+
+  export *
+  module * { export * }
+}

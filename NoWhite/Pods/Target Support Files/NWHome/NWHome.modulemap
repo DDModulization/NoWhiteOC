@@ -1,0 +1,6 @@
+framework module NWHome {
+  umbrella header "NWHome-umbrella.h"
+
+  export *
+  module * { export * }
+}

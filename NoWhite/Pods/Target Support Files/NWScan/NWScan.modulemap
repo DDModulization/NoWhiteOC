@@ -1,0 +1,6 @@
+framework module NWScan {
+  umbrella header "NWScan-umbrella.h"
+
+  export *
+  module * { export * }
+}

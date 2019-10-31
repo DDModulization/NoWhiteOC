@@ -1,0 +1,6 @@
+framework module NWSetting {
+  umbrella header "NWSetting-umbrella.h"
+
+  export *
+  module * { export * }
+}

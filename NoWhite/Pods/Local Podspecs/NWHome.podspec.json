@@ -1,0 +1,29 @@
+{
+  "name": "NWHome",
+  "version": "0.1.0",
+  "summary": "A short description of NWHome.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/deepindo/NWHome",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "deepindo": "732872042@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/deepindo/NWHome.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NWHome/Classes/**/*",
+  "ios": {
+    "dependencies": {
+      "DDPopup": [
+
+      ]
+    }
+  }
+}
