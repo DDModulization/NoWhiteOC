@@ -18,12 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "NWHome/Classes/**/*",
-  "ios": {
-    "dependencies": {
-      "DDPopup": [
-
-      ]
-    }
-  }
+  "source_files": "NWHome/Classes/**/*"
 }

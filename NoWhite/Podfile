@@ -6,7 +6,7 @@ target 'NoWhite' do
   use_frameworks!
 
   #Libs
-  pod 'DDPopup', :path => '../NoWhiteLibrary/DDPopup/DDPopup'
+  #pod 'DDPopup', :path => '../NoWhiteLibrary/DDPopup/DDPopup'
   
   #Base
   pod 'NWBase',  :path => '../NoWhiteModule/NWBase'

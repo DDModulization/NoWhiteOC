@@ -1,6 +1,0 @@
-framework module DDPopup {
-  umbrella header "DDPopup-umbrella.h"
-
-  export *
-  module * { export * }
-}
